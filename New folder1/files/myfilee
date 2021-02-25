@@ -1,0 +1,2340 @@
+AppendixA
+MATHEMATICALFORMULA S
+A.1TRIGONOMETRICIDENTITIES
+tanA=
+secA=
+sinA
+cosA'
+1
+cosA'
+cotA=
+1
+escA=
+tanA
+1
+sinA
+sin
+2
+A+cos
+2
+A=1 ,1+tan
+2
+A=sec
+2
+A
+1+cot
+2
+A=esc
+2
+A
+sin( A±B)=sinAcosB±cosAsinB
+cos( A±B)=cosAcosB+sinAsinB
+2sinAsinB=cos( A-B)-cos( A+B)
+2sinAcosB=sin( A+B)+sin( A-B)
+2cosAcosB=cos( A+B)+cos( A-B)
+sinA+sinB=2sin
+BA-B
+cos
+.„„A+BA-B
+sinA-sinB=2cossin
+A-B A+B
+cosA+cosB=2coscos
+A
+n
+^.A+BA-B
+cosA-cosB=- 2sinsin
+cos( A±90°)=+sin A
+sin( A±90°)=±cosA
+tan( A±90° )=-co tA
+cos( A±180°)=-co sA
+sin( A±180°)=-si nA
+727
+728AppendixA
+tan( A±180°)=tanA
+sin2 A=2sinAcosA
+cos2 A=cos
+2
+A-sin
+2
+A=2cos
+2
+A-1=1-2sin
+2
+A
+tanA±B
+tan( A±B)=— —
+tan2 A=
+1+tanAtanB
+2tanA
+1-tan
+2
+A
+sinA=
+e
+jA
+-e~
+iA
+cosA=
+2/'— "2
+e
+jA
+=cosA+ysinA(Euler'sidentity)
+T T=3.1416
+1rad=57.296°
+\.2COMPUXVARIABLE S
+Acomplexnumbermayberepresentedas
+z=x+jy=r/l=re
+je
+=r(cos0+jsin
+wherex=Rez=rcos0,y=Imz=rsin0
+7=
+l ,T
+=-y ,
+Thecomplexconjugateofz=z*=x—jy=r/- 0=re
+je
+=r(cos0-jsin0)
+(e
+j9
+)"=e
+jn6
+=cos«0+jsin«0(deMoivre'stheorem)
+IfZ\=x,+jyx
+andz
+2
+=^ 2+i)
+1
+!.thenz,=z
+2onlyi fx
+1=JC 2
+andj !=y
+2.
+Zi±Z
+2=(xi+x
+2)±j(yi+y
+2)
+or
+nr
+2/o,
+APPENDIXA 729
+ij
+y\
+or
+Z2
+Vz=VxTjy=\Tre
+m
+=Vr/fl/ 2
+2
+n
+=(x+/y)"=r"e
+;nfl
+=r
+n
+/nd(n=integer)
+z
+" »=(
+X
++yj,)""=
+r
+1/ n
+e
+^ "=
+r
+Vn
+/din+27rfc/ n( t=0,1 ,2,
+,nI n(re'*)=I nr+I ne
+7
+*=I nr+jO+jlkir(k=integer)
+A3HYPERBOLICFUNCTIONS
+sinhx=
+tanhx=
+u~-e
+x
+-e'
+x
+2
+sinhx
+coshx
+1
+coshx=
+COttlJt=
+e
+x
+1
+sechx=
+tanh x
+1
+coshx
+cosjx=coshx
+coshyx=cosx
+sinhx
+sinyx—jsinhx,
+sinhyx=jsinx,
+sinh(x±y)=sinhxcoshy±coshxsinhy
+cosh( x±y)=coshxcoshy±sinhxsinhy
+sinh(x±jy)=sinhxcosy±jcoshxsiny
+cosh(x±jy)=coshxcosy±jsinhxsiny
+sinh2xsin2y
+tanh(x±jy)=±/
+cosh2x+cos2ycosh2x+cos2y
+cosh
+2
+x-sinh
+2
+x=1
+sech
+2
+x+tanh
+2
+x=1
+sin(x±yy)=sinxcoshy±jcosxsinhy
+cos(x±yy )=cosxcoshy+jsinxsinhy
+L
+730•AppendixA
+A.4LOGARITHMICIDENTITIES
+If|
+logxy=logx+logy
+X
+log-=logx-logy
+logx"=nlogx
+log10
+x=logx(commonlogarithm)
+loge
+x=I nx(naturallogarithm)
+l,ln( l+x)=x
+A.5EXPONENTIALIDENTITIES
+e
+x
+=
+wheree= =2.7182
+X~f "
+e
+[e
+I n
+x
+2
+2!
+4
+V=
+1 "=
+x
+3
+"3!
++
+e
+x+y
+X
+x
+4
+4!
+A.6APPROXIMATIONSFO RSMAL LQUANTITIES
+If\x\<Z1,
+(1±x)
+n
+= =1±ra
+^=1+x
+I n(1+x)=x
+sinx
+sinx= =xorhm=1
+>0X
+COS—1
+tan x—x
+APPENDIXA« K731
+A.7DERIVATIVES
+IfU=U(x),V=V(x),anda=constant,
+dx dx
+dx dxdx
+d\U
+\
+U
+dxdx
+V
+2
+~(aU
+n
+)=naU
+n
+~
+i
+dx
+dx Udx
+d1dU
+—I nU=
+dxUdx
+d
+v.t/,dU
+—a=dIna—
+dxdx
+dxdx
+dxdx
+—sinU=cosU—
+dxdx
+ddU
+—-cosU=-si nU—
+dxdx
+d,dU
+—-tanU=sec£/—
+dxdx
+ddU
+—sinhU=cosh[/—
+dxdx
+—cosht /=sinh{ /—
+dxdx
+d.dU
+—tanh[/=sech
+2
+t/—
+<i xdx
+dx
+732AppendixA
+A.8INDEFINITEINTEGRALS
+lfU=U(x),V=V(x),anda=constant,
+adx=ax+C
+UdV=UV-|VdU(integrationbyparts)
+U
+n+l
+U
+n
+dU=+C,n+-1
+n+1
+dU
+U
+=I nU+C
+a
+u
+dU=+C,a>0,a
+I na
+e
+u
+dU=e
+u
++C
+e
+ax
+dx=-e
+ax
++C
+a
+xe
+ax
+dx=—r(ax-1 )+C
+xe
+ax
+dx=—(a
+2
+x
+2
+-lax+2)+C
+a'
+I nxdx=xI nx—x+C
+sinaxcfc c=—cosax+C
+a
+cosaxax=—sinax+C
+tanaxet c=-I nsecax+C=—I ncosax+C
+aa
+secaxax=—I n(secax+tanax)+C
+a
+APPENDIXA"
+: :
+733
+2
+xsin2ax
+sinaxdx=—1 -C
+24a
+xsin2ax
+2
+x
+cosaxdx=—I
+24a
+C
+sinaxdx=—(sinax—axcosax)+C
+xcosaxdx=— x(cosax+axsinax)+C
+e
+ax
+si nbxdx=—~r(asinbx-bcosto) +C
+a+ft
+e
+ajc
+cosbxdx=-=~(acosftx +ftsin/?x )+C
+a+b
+sin(a-ft)xsin(a+b)x
+22
+sinaxsinoxax=— —~TT,—:—~• "^ >a+b
+sinaxcosbxdx=—
+l(a-b)l(a+
+cos(a-b)xcos(a+b)x
+cosaxcosbxdx=
+a-ft)2(a+ft)
+sin(a-ft)xsin(a+ft)x
+2(a-ft)2(a+b)
+C,a
+1
++C,a
+2
+#b
+2
+sinhflitfa=-coshax+C
+a
+coshca &=-sinhax+C
+a
+tanhaxdx=-Incoshax+C
+a
+ax1_•x„
+- rr=-tan'-+C
+x
+2
++a
+2
+aa
+XX
+l(
+2
++
+2
+)
+22
+x+aI
+C
+x
+2
+dx_,x
+—r=x-atan-+C
+x
+2
++a '«
+734AppendixA
+dx x+a
+x
+2
+>a
+2
+x
+2
+-a
+2
+1a-x2, 2
+T —I n—•hC,x<a
+2aa+x
+dx
+\/2,
+V x±
+xdx
+x
+2
+2
+a
+_,x
+=si n'-+C
+=I n(x+Vx
+2
+±a
+2
+)+C
+a
+2
++C
+dx x/a
+z
+(x
+2
++a
+2
+)
+3
+'
+2
++C
+xdx
+(x
+2
++a
+2
+)
+3
+'
+2
+'x
+2
++a
+2
+x
+2
+dx
+(x
+2
++a
+2
+f
+2
+=I n
++a
+2
+x
+aa V+a
+2
++C
+dx
+(x
+z
++a
+z
+1/x1_!* \
+r^f" ij+-ta n
+l
+-}+C
+la\x+aaa,
+A.9DEFINITEINTEGRALS
+' o
+sinmxsinnxdx=cosmxcosnxdx={' ,
+m+n
+ir/2,m=n
+,iw ,m+n=even
+sinmxcosnxdx=I
+oi—r,m+n=odd
+m-«
+sinmxsinnxdx=sinmxsinnxdx=
+J,m=Fn
+w,m=n
+si nax
+ir/2 ,a>0,
+d x=^0,a=0
+-ir/2 ,a<0
+sin
+2x
+APPENDIXA* *735
+f sinax,,x
+x
+n
+e~
+ax
+dx=
+'
+1
+"dx=
+w !
+1Iv
+2Va
+a-(ax
+2
++bx+c)£
+x
+_\J_
+e
+M
+cosbxdx=
+e'"
+1
+sinbxdx=
+a
+2
++b
+2
+A.10VECTORIDENTITIES
+IfAandBarevectorfieldswhileUandVarescalarfields,then
+V(U+V)=VU+V V
+V(t/V)=UV V+VVt/
+V(VL0-VV"=nV"
+1
+VV(«=integer)
+V(A•B)=(A•V)B+(B•V)A+AX(VXB)+BX(VXA)
+V•( AXB)=B•(VXA)-A•(VXB)
+V•(VA)=VV•A+A•W
+V•(VV )=V
+2
+V
+V•(VXA)=0
+VX( A+B)=VXA+VX B
+VX(AXB)=A(V•B)-B(V•A)+(B•V)A-(A•V)B
+Vx(VA )=V VXA+V(VXA)
+736AppendixA
+Vx(VV )=0
+VX(VXA)=V(V•A)-V
+2
+A
+A•d\=IVXA-d S
+Vd\=-IVVXdS
+A•dS=V•Adv
+K
+VdS=\Wdv
+AXJS= -
+AppendixD
+MATERIALCONSTANTS
+TABL EB. 1ApproximateConductivity*ofSome
+CommonMaterialsat20°C
+Material
+Conductors
+Silver
+Copper(standardannealed)
+Gold
+Aluminum
+Tungsten
+Zinc
+Brass
+Iron(pure)
+Lead
+Mercury
+Carbon
+Water(sea)
+Semiconductors
+Germanium(pure)
+Silicon(pure)
+Insulators
+Water(distilled)
+Earth(dry)
+Bakelite
+Paper
+Glass
+Porcelain
+Mica
+Paraffin
+Rubber(hard)
+Quartz(fused)
+Wax
+Conductivity(siemens/meter)
+6.1X10'
+5.8X10'
+4.1X10'
+3.5X10'
+1. 8x10'
+1. 7x10'
+1. 1x10'
+10'
+5X10
+6
+10
+6
+3X10
+4
+4
+2.2
+4.4X10"
+4
+io-4
+io-5
+io-'°
+io- "
+lO"
+1 2
+io-'
+2
+io-'
+5
+lO"
+1 5
+io-'
+5
+io- "
+10""
+Th evaluesvaryfro monepublishedsourcetoanotherduetothefac t
+thattherearemanyvarietiesofmostmaterialsandthatconductivity
+issensitivetotemperature,moisturecontent,impurities,andthelike.
+737
+738 AppendixB
+TABL EB.2ApproximateDielectricConstant
+orRelativePermittivity(e
+r )andStrength
+ofSomeCommonMaterials*
+Material
+Bariumtitanate
+Water(sea)
+Water(distilled)
+Nylon
+Paper
+Glass
+Mica
+Porcelain
+Bakelite
+Quartz(fused)
+Rubber(hard)
+Wood
+Polystyrene
+Polypropylene
+Paraffin
+Petroleumoil
+Air(1atm.)
+DielectricConstant
+er(Dimensionless)
+1200
+80
+81
+8
+7
+5-10
+6
+6
+5
+5
+3.1
+2.5-8.0
+2.55
+2.25
+2.2
+2.1
+1
+DielectricStrength
+RV/m)
+7.5x10
+6
+12X10"
+35x10
+6
+70X10
+6
+20X10
+6
+30X10
+6
+25X10
+6
+30X10
+6
+12X10
+6
+3X10
+6
+*Thevaluesgivenhereareonlytypical;theyvaryfromone
+publishedsourcetoanotherduetodifferentvarietiesofmost
+materialsandthedependenceoferontemperature,humidity,andthe
+like.
+APPENDIXB 739
+TABL EB. 3Relative
+Permeability(/*, )of
+SomeMaterials*
+Material
+Diamagnetic
+Bismuth
+Mercury
+Silver
+Lead
+Copper
+Water
+Hydrogen(s.t.p.)
+Paramagnetic
+Oxygen(s.t.p.)
+Air
+Aluminum
+Tungsten
+Platinum
+Manganese
+Ferromagnetic
+Cobalt
+Nickel
+Softiron
+Silicon-iron
+V-r
+0.999833
+0.999968
+0.9999736
+0.9999831
+0.9999906
+0.9999912
+=1. 0
+0.999998
+1.00000037
+1.000021
+1.00008
+1.0003
+1.001
+250
+600
+5000
+7000
+*Thevaluesgivenhereareonlytypical;
+the yvaryfro monepublishedsourceto
+anotherduetodifferentvarietiesof
+mostmaterials.
+AppendixC
+ANSWER STOODD-NUMBERED
+PROBLEM S
+CHAPTER1
+1.1
+1. 3
+-0.8703a
+JC
+-0.3483a,-0.3482 a ,
+(a)5a*+4a,+6s,
+(b)-53 ,-3s ,+23a,
+(c)0.439a*-0.11a,-0.3293a z
+(d)1.1667a*-0.70843,-0.7084a
+z
+1. 7Proof
+1.9(a)-2.857 7
+(b)-0.2857a*+0.8571a,
+(c)65.91°
+1.1172.36°,59.66°,143.91°
+1.13(a)(B•A)A-( A•A)B
+(b)(A•B)(AXA)-(A•
+1.1525.72
+1.17(a)7.681
+(b)
+(c)137.43
+C
+(d)11.022
+(e)17.309
+1.19(a)Proof
+(b)cos0!cos02+sini
+-0 i
+0.4286a,
+A)(AXB)
+-2a ,-5a
+7
+sin02,cos0icos02—sin0,sin02
+(c) sin
+1.21(a)10.3
+(b)-2.175a x
++1.631a, 4.893a.
+(c)-0.175a x
++0.631a
+y-1.893a,
+740
+APPENDIXC 741
+CHAPTER2
+2.1(a)P(0.5,0.866,2)
+(b)g(0,1 ,-4 )
+(c)#(-1.837 ,-1.061,2.121 )
+(d)7(3.464,2,0)
+2.3(a)pzcos0-p
+2
+sin0cos0+pzsin0
+(b)r
+2
+( l+sin
+2
+8sin
+2
+0+cos8)
+2.5(a)-, 2
+4sin0 \/
+(pap+4a
+z
+),Isin8H]a
+r
++sin0(cosi
++/Vx
+2
++y
+2
++z
+2.9Proof
+2.11(a)
+x
+l
++y
+z
+yz\),3
+(b)r(sin
+2
+0cos0+rcos
+3
+0sin0)a
+r
++rsin0cos0(cos0—rcos0sin0)a# ,3
+2.13(a)rsin0[sin0cos0(rsin0+cos0)a
+r+sin0(rcos
+2
+0-sin0cos0)
+ag+3cos0a^],5a #-21.21a
+0
+p
+-• -za A4.472a
+p
++ 2.236a
+z
+2.15(a)Aninfinitelineparalleltothez-axis
+(b)Point(2,-1 ,10)
+(c)Acircleofradiusrsin9=5,i.e.,theintersectionofaconeandasphere
+(d)Aninfinitelineparalleltothez-axis
+(e)Asemiinfinitelineparalleltothex-yplane
+(f )Asemicircleofradius5inthex-yplane
+2.17(a)a ^-a
+y
++7a
+z
+(b)143.26°
+(c)-8.78 9
+2.19(a)-ae
+(b)0.693la
+e
+(c)-a
+e
++O.6931a0
+(d)0.6931a,,,
+2.21(a)3a
+0
++25a,,-15.6a
+r
++lOa0
+(b)2.071a
+p-1.354a
+0
++0.4141a,
+(c)±(0.5365ar-0.1073a
+9
++0.8371a^,)
+2.23(sin8cos
+3
+0+3cos9sin
+2
+0)a
+r
++(cos8cos
+3
+0+2tan8cos6sin
+2
+0-sin6sin
+2
+0)a
+e+sin0cos0(sin0-cos0 )a
+0
+742I fAppendixC
+CHAPTER3
+3.1
+3.3
+3.5
+3.7
+3.9
+3.11
+3.13
+3.15
+3.17
+3.19
+3.21
+3.23
+3.25
+3.27
+3.29
+3.31
+3.33
+3.35
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+2.356
+0.5236
+4.189
+6
+110
+4.538
+0.6667
+(a)
+(b)
+4a,
+(a)
+(b)
+(a)
+(b)
+(c)
+-5 0
+-39. 5
+,+1.333a
+z
+(-2 ,0,6.2)
+-2a *+(2At+
+-0.5578a x-0.
+2.5a
+p
++2.5a
+0--a
+r
++0.866a< ,
+Along2a*+2a> ,-(a)
+(b)
+(a)
+(b)
+2(z
+:
+-y
+2
+a
+x+2za
+y-(p
+2
+-3z
+2
+)a 0
++
+COt( 7COS(p~
+Proof
+2xyz
+z
+-y
+2
+-y )
+Proof
+(a)
+(b)
+(c)
+(d)
+6yza
+x+3xy
+2
+a
+y•
+Ayzax
++3xy
+2
+a3,•
+6xyz+3xy
+3
++;
+2(x
+2
++y
+2
++z
+2
+)
+Proof
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+(6xy
+2
++2x
+2
++x
+3z(cos4>+sin4
+e~
+r
+sin6cos</> (]
+7
+6
+7
+6
+Yes
+50.265
+(a)
+(b)
+(c)
+Proof,bothsides
+Proof,bothsides
+Proof,bothsides
+5)3;,m/s
+8367a
+y-3.047a,
+-17.32a
+z
+a
+z
+x\,0
+4p
+2
+a z ,0
+1/co s<t>
+r-,.+CO S
+rVsin6
++3x
+2
+yzaz
+• f4x
+2
+yzaz
+\x
+2
+yz
+•
+5
+y
+2
+)e
+xz
+,24.4 6
+») ,-8.196 1
+A\
+L--j ,0.8277
+equal1.66 7
+equal131.57
+equal136.23
+6a *0
+APPENDIXC 743
+CHAPTER4
+3.37(a)4T T-2
+(b)1-K
+3.390
+3.41Proof
+3.43Proof
+3.45a=1=0=7,- 1
+4.1-5.746a.,-1.642a,+4.104a,mN
+4.3(a)-3.46 3nC
+(b)-18. 7nC
+4.5(a)0.5C
+(b)1.20 6nC
+(c)157.9nC
+MV/m
+4.13
+4.15
+4.17
+4.19
+4.21
+4.23
+(a)Proof
+(b)0.4mC,31.61a,/iV/m
+-0.591a
+x
+-0.18a
+z N
+Derivation
+(a)8.84xya
+x
++8.84x
+2
+a,pC/m
+2
+(b)8.84>>pC/m
+3
+5.357kJ
+Proof
+(0,p<\
+1< p<2
+28
+P
+4.251050J
+4.27(a)-1250 J
+(b)-375 0nJ
+(c)0 J
+(d)-875 0nJ
+4.29(a)-2xa
+x-Ayay-8za
+z
+(b)-(xax+ya
+y+zaz)cos(x
+2
++y
+2
++z
+2
+)
+m
+(c)-2p( z+1 )sin4>a
+p-p(z+1 )cos<j>a
+0-p
+2
+sin<t>a
+z
+(d)e"
+r
+sin6cos20a
+r
+cos6cos20a
+eH sin20
+4.31
+4.33
+(a)
+(b)
+72a
+x
+-3 0
+Proo f
++
+.9 5
+27a,-PC
+36a, V/ m
+744•AppendixC
+4.35(a)
+(b)
+(c)
+CHAPTER5
+2p
+o
+2p
+0
+I5eor
+2n
+I5eor
+1)Psd
+r
+--^
+5J
+&r
+'e
+o
+V206
+2p o
+1p
+o
+a
+15e
+o60s
+n
+1 5
+(d)Proof
+4.37(a)-1.13 6a^kV/m
+(b)(a ,+0.2a^)X10
+7
+m/s
+4.39Proof,
+4.41
+(2sin0sin0a
+r-cos0sin<t>a
+e-cos0a^)V/m
+4.436.612nJ
+5.1-6.28 3A
+5.35.026A
+5.5(a)-16ryze
+o,(b)-1.13 1mA
+5.7(a)3.5X10
+7
+S/m,aluminum
+(b)5.66X10
+6
+A/m
+2
+5.9(a)0.27mil
+(b)50.3A(copper),9.7A(steel)
+(c)0.322mfi
+5.111.000182
+5.13(a)12.73za
+znC/m
+2
+,12.73nC/m
+3
+(b)7.427za
+znC/m
+2
+,-7.47 2nC/m
+3
+5.15(a)
+4?rr
+2
+(b)0
+( o
+e
+1
+Q
+4-Kb
+2
+5.17-24.72a*-32.95a
+y
++98.86a,V/m
+5.19(a)Proof
+(b) ^
+5.21(a)0.442a*+0.442a
+y
++0.1768a
+znC/m
+2
+(b)0.2653a*+0.5305a
+y
++0.7958a,
+5.23(a)46.23A
+(b)45.98,uC/m
+3
+5.25(a)18.2 ^
+(b)20.58
+(c)19.23%
+APPENDIXC•745
+5.27(a)-1.061a ,+1.768a,,+1.547a
+znC/m
+2
+(b)-0.7958a*+1.326a,+1.161a
+znC/m
+2
+(c)39.79°
+5.29(a)387.8a
+p-452.4a,* ,+678.6a
+zV/m,12a,-14a
+0
++21a
+znC/m
+2
+(b)4a,-2a^ ,+3a
+znC/m
+2
+,0
+(c)12.62mJ/m
+3
+fo rregion1and9.839mJ/m
+3
+forregion2
+5.31(a)705.9V/m,0°(glass),6000V/m,0°(air)
+(b)1940.5V/m,84.6°(glass),2478.6V/m,51.2°(air)
+5.33(a)381.97nC/m
+2
+0955a ,2
+(b)5—nC/m
+r
+(c)12.96pi
+CHAPTER6
+6.1120a*+1203,,"
+12a
+z '
+530
+-52
+1
+,. ,,.PvX
+3
+,PoX
+2
+,fV0
+p
+od\(pyPaXVo
+p
+od\
+p
+o
+ds0V0s0V0
+p
+o
+d
+(b )
+3~d'd
++
+6
+6.5157.08 /-942.5;y
+2
++30.374kV
+6.7Proof
+6.9Proof
+6.1125zkV,-25a
+zkV/m,-332a
+znC/m
+2
+,±332a
+znC/m
+2
+6.139.52V ,18.205a
+pV/m,0.161a,,nC/m
+2
+6.1511.7V ,-17.86a e V/m
+6.17Derivation
+6.19
+6.21
+6.23
+6.25
+(a)-±
+H A
+4V
+°
+(L )
+x
+{)
+x
+Proof
+Proof
+Proof
+00
+V
+CO
+n=odd
+Ddd
+sin
+i
+sin
+1
+m
+I
+niry
+a
+1b
+nira
+nsinh
+b
+nirx
+sinh
+a
+n-wb
+nsinh
+a
+niry
+b
+n
+•h
+n7 r
+( n,
+b
+sinh
+746 AppendixC
+6.27
+6.29
+6.31
+6.33
+6.35
+6.37
+6.39
+6.41
+6.43
+6.45
+6.47
+6.49
+0.5655cm
+2
+Proof
+(a)100V
+(b)99.5nC/m
+2
+,-9 9
+(a)25pF
+(b)63.662nC/m
+2
+4x
+1 11 1
+cdbe
+21.85pF
+693.1s
+Proof
+Proof
+0.7078mF
+(a)ln C
+(b)5.25nN
+-0.189 1(a ,+a
+v
++.
+. 5nC/m
+2
+11
+ab
+a
+7)N
+6.51(a)-138.24a
+x -184.32a,V/m
+(b)-1.01 8nC/m
+2
+CHAPTER7
+7.1(b)0.2753a
+x
++0.382a
+yH
+7.30.9549a
+zA/m
+7.5(a)28.47a
+ymA/m
+(b)-13a ,+13a,mA/m
+(c)-5.1a ,+1.7a ymA/n
+(d)5.1a
+x
++1.7a,mA/m
+7.7(a)-0.6792a zA/m
+(b)0.1989a
+zmA/m
+(c)0.1989a
+x
+7.9(a)1.964a
+zA/m
+(b)1.78a
+zA/m
+(c)
+(d)
+7.11(a)
+(b)
+(c)
+7.13(a)
+0.1404a
+7A/m
+0.1989a,A/m
+-0.1178a ,A/m
+-0.3457a,,-0.3165a
+y
++0.1798a
+zA/m
+Proof
+1.7 8A/m,1.12 5A/m
+Proof
+1.36a
+7A/m
+(b)0.884a
+zA/m
+7.15(a)69.63A/m
+(b)36.77A/m
+APPENDIXC 747
+7.1 7(b )
+0,
+/(p
+2
+-a
+2
+2-KP\b
+2
+-a
+2
+I
+p<a
+a<p<b
+p>b
+7.1 9
+7.21
+7.23
+7.2 5
+7.2 7
+7.29
+7.31
+(a )-2a ,A/m
+2
+(b )Proof ,bot hside sequa l-3 0A
+(a )8Oa
+0nWb/m
+2
+(b )1.756/iWb
+(a )31.433,A/m
+(b )12.79a
+x
++6.3663,A/m
+13. 7nW b
+(a )magneticfield
+(b )magneticfield
+(c )magneticfield
+(14a,+42a
+0)X10
+4
+A/m,-1.011Wb
+IoPa
+2?ra
+2
+*
+7.33—
+/
+7.3 5
+7.3 7
+7.3 9
+A/m
+2
+28x
+(a )50A
+(b )-25 0A
+Proof
+8/Xo/
+CHAPTER8
+8. 1-4.4ax
++1.3a ,+11.4a,kV/ m
+8. 3(a )(2,1.933 ,-3.156)
+(b )1.17 7J
+8. 5(a )Proof
+8. 7-86.4az
+pN
+8. 9-15.59mJ
+8.1 11.949a
+xmN/m
+8.132.133a *-0.2667a
+yWb/m
+2
+8.1 5(a )-18.52azmWb/m
+2
+(b )-4a,mWb/m
+2
+(c )-Ilia, .+78.6a,,mWb/m
+2
+I
+748 AppendixC
+8.17
+8.19
+8.21
+8.23
+8.25
+8.27
+8.29
+8.31
+8.33
+8.35
+8.37
+8.39
+8.41
+8.43
+(a)
+(b)
+(c)
+(d)
+5.5
+81.68a
+x
++204
+-220a
+zA/m
+9.5mJ/m
+2
+476.68kA/m
+2 -a
+(a)
+(b)
+26.
+(a)
+(b)
+(c)
+(a)
+(b)
+11.
+)
+25a
+p
++15a
+0-666.5J/m
+3
+,57.
+833^-30a
+y
++
+-5a, ,A/m,- 6
+—35a
+yA/m,—
+2a
+y-326.7a
+zjtWb/m
+2
+-50a
+zmWb/m
+2
+7J/m
+3
+33.96a,A/m
+.283a,,jtWb/m
+2
+110a
+y^Wb/m
+2
+5a
+yA/m,6.283a
+y/iWb/m
+2
+167.4
+6181kJ/m
+3
+58mm
+5103turns
+Proof
+190.8A•t,19,080
+88.
+(a)
+(b)
+5mWb/m
+2
+6.66mN
+1.885mN
+Proof
+A/m
+CHAPTER9
+9.10.4738sin377?
+9.3-5 4V
+9.5(a)-0.4 ?V
+(b)-2?
+2
+9.79.888JUV ,pointAisathigherpotential
+9.90.97mV
+9.116A,counterclockwise
+9.13277.8A/m
+2
+,77.78A
+9.1536GHz
+9.17(a)V•Es
+=pje,V-H s
+=0,VxE 5
+BDXdD
+yBDZ
+(b)——+— —+^ ~
+oxdyoz
+dB
+xdB
+vdB
+z
+dxdydz
+d£
+zdE
+y
+_dB
+x
+dydzdt
+,VXH,=(aPv
+=0
+APPENDIXC 749
+dE
+x
+dz
+dE
+y
+dx
+dH
+z
+dy
+dH
+x
+dz
+dHy
+dx
+9.19Proof
+dE
+z
+dx
+dE
+x
+_
+dy
+dH
+y
+dz
+_dH
+1
+_
+dx
+dH
+x
+_
+dy~
+j
+Jx
+Jy
+Jz
+dB
+}
+dt
+dB
+k
+dt
+I
++
++
+BDX
+dt
+dD
+y
+dt
+dD
+z
+dt
+9.21-0.3z
+2
+sinl0
+4
+rmC/m
+3
+9.230.833rad/m ,100.5sinj3 xsin(ata
+yV/m
+9.25(a)Yes
+(b)Yes
+(c)No
+(d)No
+9.273cos<j>cos(4X10
+6
+r)a,A/m
+2
+,84.82cos<j>sin(4X10
+6
+f)azkV/m
+(l+0(3-p),
+rt 7
+.„-,_
+4T T
+9.2 9( 2-p)(l+t)e~
+p
+~'a
+zWb/m
+2
+,•
+9.31(a)6.39/242.4°
+(b)0.2272/-202.14°
+(c)1.387/176.8°
+(d)0.0349/-68 °
+9.33(a)5cos(at-Bx-36.37°)a3,
+20
+(b)—cos(at-2z)a
+p
+22.36
+(c)—j —cos(at-<j)+63.43°)sin0a
+0
+9.35Proof
+CHAPTER10
+10.1(a)alonga
+x
+(b)1us,1.047m,1.047X10
+6
+m/s
+(c)seeFigureC.1
+10.3(a)5.4105+y6.129/m
+(b)1.025m
+(c)5.125X10
+7
+m/s
+(d)101.41/41.44°0
+(e)-59A6eJ4h44
+°e' ^
+I
+750 AppendixC
+—25IFigure dForProblem10.1.
+25
+-2 5
+25
+-2 5
+-2 5It=778
+\/ 2
+t=774
+t=Til
+10.5
+10.7
+10.9
+10.11
+(a)1.732
+(b)1.234
+(c)(1.091-jl.89 )X10~
+n
+F/in
+(d)0.0164Np/m
+(a)5X10
+5
+m/s
+(b)5m
+(c)0.796m
+(d)14.05/45°U
+(a)0.05+j2/m
+(b)3.142m
+(c)10
+8
+m/s
+(d)20m
+(a)along-x-direction
+(b)7.162X10"
+10
+F/m
+(c)1.074sin(2X10
+8
++6x)a
+zV/m
+APPENDIXCB751
+10.13(a)lossless
+(b)12.83rad/m,0.49m
+(c)25.66rad
+(d)46171 1
+10.15Proof
+10.175.76,-0.254 6sin(10
+9
+r-8x)a
+y+0.3183cos(10
+9
+r-8x)a,A/m
+10.19(a)No
+(b)No
+(c)Yes
+10.212.183m,3.927X10
+7
+m/s
+10.230.1203mm,0.126n
+10.252.94X10"
+6
+m
+10.27(a)131.6a
+(b)0.1184cos
+2
+(2irX10
+8
+r-6x)a
+xW/m
+2
+(c)0.3535W
+0225
+10.29(a)2.828X10
+8
+rad/s,sin(co r-2z)a^A/m
+9,-- ,
+(b)- ^sin
+2
+(co r-2z)a
+zW/m
+2
+P
+(c)11.46W
+10.3 1(a)~|, 2
+(b)-1 0cos(co r+z)axV/m,26.53cos(co r+z)aymA/m
+10.3326.038X10~
+6
+H/m
+10.35(a)0.5X10
+8
+rad/m
+(b)2
+(c)-26.5 3cos(0.5X10
+8
+r+z)axmA/m
+(d)1.061a,W/m
+2
+10.37(a)6.283m,3X10
+8
+rad/s,7.32cos(co r-z)ayV/m
+(b)-0.026 5cos(co r-z)axA/m
+(c)-0.268,0.73 2
+(d)E t
+=1 0cos(co r-z)a
+y-2.68cos(ut+z)ayV/m,
+E2
+=7.32cos(co r-z)ayV/m,P,av e=0.1231a,W/m
+2
+,
+P2me=0.1231a,W/m
+2
+10.39SeeFigureC.2.
+10.41Proof,Hs
+=^ —[kysin(k^)sin(ky
+y)a
+x+k
+x
+cos(jfc^ )cos(ky
+y)a
+y]
+C0/Xo
+10.43(a)36.87°
+(b)79.583^+106.1a,mW/m
+2
+(c)(-1.518a y
++2.024a,)sin(co r+Ay-3z)V/m,(1.877a,,-5.968a
+v)
+sin(co r-9.539y-3z)V/m
+10.45(a)1 5X10
+8
+rad/s
+(b)(-8a *+6a,,-5a
+z)sin(15X10
+8
+r+3x+Ay)V/m
+752 AppendixC
+(i=0 FigureC.2ForProblem10.39;curvencorrespondsto?=n778,n=0,1,2, ....
+A/4
+CHAPTER11
+11. 10.0104n/m,50.26nH/m,221pF/m,0S/m
+11.3Proof
+11.5(a)13.34/-36.24
+0
+,2.148X10
+7
+m/s
+(b)1.606m
+11.7Proof
+y
+11.9—sin(at-j8z )A
+11.1 1
+11.13
+11.15
+11.17
+11.19
+11.21
+11.23
+11.25
+11.27
+11.29
+11.31
+11.33
+(a)
+(b)
+79 S
+Proof
+2«
+n+1
+(ii)2
+(iii)0
+(iv)1
+S. 3rad/m,3.542X10
+7
+m/s
+Proof
+(a)
+(b)
+0. 2
+(a)'
+(b )
+0.4112,2.397
+34.63/-4O.65
+0
+Q
+/40° A
+46.870
+48.39V
+Proof
+io. :
+(a)
+(b)
+2+7I3.8a0.7222/154°,6. 2
+730 0n
+1 5+70.75U
+0.35+yO.2 4
+(a )
+(b )
+(c )
+(a )
+(b)
+125MHz
+72+772n
+0.444/120°
+35+7'3 4a
+0.375X
+APPENDIXC 753
+11.35(a)24.50 ,
+(b)55.33Cl,61.1A£1
+11.3710.25W
+11.3920+yl5mS,-7IOmS,-6.40 8+j5.189mS,20+J15mSJIOmS,
+2.461+j5.691mS
+11.41(a)34.2+741.40
+(b)0.38X,0.473X,
+(c)2.65
+11.434,0.6/-90
+0
+,27.6-y52.8Q
+11.452.11,1.76 4GHz,0.357/-44.5
+0
+,70-j400
+11.47SeeFigureC.3.
+11.49SeeFigureC.4.
+11.51(a)77.77(1,1. 8
+(b)0.223dB/m,4.974dB/m
+(c)3.848m
+11.539.112Q<Z O
+<21.030
+V(0,t) 14.4V
+12V
+FigureC.3ForProblem11.47.
+2.4V
+2.28V
+10
+t(us)
+150mA
+142.5mA
+10
+754I IAppendixC
+V(ht)
+80V
+74.67V
+75.026V
+0
+/(1, 0mA
+t(us )
+533.3
+0
+497.8
+500.17
+01 23
+FigureC.4ForProblem11.49.
+-+-*•t(us)
+CHAPTER12
+12. 1
+12.3
+12.5
+12.7
+12.9
+12.11
+12.13
+Proof
+(a)
+(b)
+(c)
+(a)
+(b)
+43 C
+375
+(a)
+(b)
+(c)
+(a)
+(b)
+SeeTableC.I
+i7 TEn=573.83Q,r/TM15
+=3.058fi
+3.096X10
+7
+m/s
+No
+Yes
+Ins
+AQ,0.8347W
+TE23
+y400.7/m
+985.30
+Proof
+4.06X10
+8
+m/s,2.023cm,5.669X10
+8
+m/s,2.834cm
+APPENDIXCU755
+12.15(a)1.193
+(b)0.8381
+12.174.917
+TABLEC.1
+Mode
+TEo,
+TE10,TE02
+TEn.TM,,
+TEI2 ,TM I 2
+TE0 3
+TEl3> TMl 3
+TE M
+TE 14 ,TM 1 4
+TE05,TE23,TM 2 3
+TEl5
+,TM1 5
+fc(GHz)
+0.8333
+1.667
+1.863
+2.357
+2.5
+3
+3.333
+3.727
+4.167
+4.488
+4iri\b
+12.210.04637Np/m,4.811m
+12.23(a)2.165X10~
+2
+Np/m
+(b)4.818X10"
+3
+Np/m
+12.25Proof
+12.27Proof,— j
+12.29(a)TEo,,
+(b)TM110
+(c)TE101
+12.3 1Se eTabl eC. 2
+r..(mzx\(niry\
+—)Hosincoscos
+VaJ\bJ
+piK
+c
+TABLE
+Mode
+Oil
+11 0
+10 1
+10 2
+12 0
+022
+C.2
+fr(GHz)
+1. 9
+3.53 5
+3.333
+3.8
+4.472
+3.8
+12.33(a)6.629GHz
+(b)6,387
+12.352.5(-si n30TT XCO S30X^3 ^+cos30irxsin3070^)sin6X10
+9
+756MAppendixC
+CHAPTER13
+13.1
+Cf\/D
+sin(w ?-/3r)(-sin<Aa^ ,+cos6cos<t>ae)V/m
+A/m sin(oit-0r)(sin<j>&6+cos8cos
+fir
+13.394.25mV/m,jO.25mA/m
+13.51.97 4f l
+13.728.47A
+jnh^e'
+i0r
+sinf l
+13.9(a)£
+f e=t ffi
+OTT?'
+(b)1. 5
+13.11(a)0.9071/x A
+(b)25nW
+13.13SeeFigureC.5
+13.15SeeFigureC.6
+13.178sin6cos<t>,8
+13.19(a)1. 5sin0
+(b )1. 5
+FigureC.5ForProblem13.13.
+1=3X/2
+1= X
+1=5x/8
+APPENDIXC
+FigureC.6ForProblem13.15.
+(c)
+1.5A
+2
+sin
+2
+0
+13.21
+13.23
+13.25
+(d)3.084fl
+99.97%
+(a)1. 5sin
+2
+9,5
+(b)6sin
+2
+0cos
+2
+<j>,6
+(c)66.05cos
+2
+0sin
+2
+<j>/2,66.05
+1
+sin6cos
+2irr
+13.27SeeFigureC.7
+13.29SeeFigureC.8
+13.310.2686
+13.33(a )Proof
+(b)12.8
+13.3521.28pW
+13.3719dB
+-13dco s6 »
+FigureC.7Fo rProblem13.27 .
+758 AppendixC
+FigureC.8Fo rProblem13.29 .
+N=l
+N=4
+13.39(a)1.708V/m
+(b)11.36|tiV/m
+(c)30.95mW
+(d)1.9 1pW
+13.4177.52W
+CHAPTER14
+14.1
+14.3
+14.5
+14.7
+14.9
+14.11
+14.13
+14.15
+14.17
+Discussion
+0.33-yO .15,0.5571-;0.626
+3.571
+Proof
+1.42 8
+(a)0.2271
+(b)13.13°
+(c)376
+(a)29.23°
+(b)63.1%
+a
+w
+=8686a
+14
+Discussion
+APPENDIXC 759
+CHAPTER15
+15.1SeeFigureC.9
+15.3(a)10.117,1.5 6
+(b)10.113,1.506
+15.5Proof
+15.76V,14V
+15.9V,=V2
+=37.5,V3
+=V4
+=12.5
+FigureC.9ForProblem15.1.
+760 AppendixC
+15.11(a)Matrix[A]remainsthesame,but-h
+2
+ps/smustbeaddedtoeachterm
+ofmatrix[B].
+(b)Va
+=4.276,Vb=9.577,Vc=11.126
+Vd=-2.013 ,Ve
+=2.919,Vf=6.069
+Vg=-3.424 ,Vh
+=-0.109 ,V;
+=2.909
+15.13Numericalresultagreescompletelywiththeexactsolution,e.g.,fort=0,
+V(0,0)=0,V(0.1,0)=0.3090,V(0.2,0)=0.5878,V(0.3,0)=0.809,
+V(0.4,0)=0.9511,V(0.5,0)=1.0 ,V(0.6,0)=0.9511,etc.
+15.1512.77pF/m(numerical),12.12pF/m(exact)
+15.17SeeTableC.3
+TABLEC.3
+6(degrees)
+10
+20
+30
+40
+170
+180
+C(pF)
+8.5483
+9.0677
+8.893
+8.606
+11.32
+8.6278
+15.19(a)Exact:C=80.26pF/m,Zo
+=41.56fi;fornumericalsolution,seeTableC.4
+TABLEC.4
+NC(pF/m)Zo(ft)
+1082.38640.486
+2080.96641.197
+4080.43841.467
+10080.02541.562
+(b)Fornumericalresults,seeTableC.5
+TABLEC.5
+NC(PF/m)Zo(ft)
+10109.5130.458
+20108.7130.681
+40108.2730.807
+100107.9330.905
+APPENDIXC 761
+15.21Proof
+15.23(a)At(1.5,0.5)along12and(0.9286,0.9286)along13.
+(b)56.67V
+0-0.670 8
+-1. 2-0.124 8
+1.40 8-0.20 8
+15.25
+0.8788
+-2.0 8
+0
+-0.670 8
+15.271 8V,20V
+15.29SeeTableC.6
+-0.20 8
+1.528
+-1. 2
+-0.124 8 -0.20 81.0036
+TABLEC.6
+NodeNo.
+8
+9
+10
+1 1
+14
+15
+16
+17
+20
+21
+22
+23
+26
+27
+28
+29
+FE M
+4.546
+7.197
+7.197
+4.546
+10.98
+17.05
+17.05
+10.98
+22.35
+32.95
+32.95
+22.35
+45.45
+59.49
+59.49
+45.45
+Exact
+4.366
+7.017
+7.017
+4.366
+10.66
+16.84
+16.84
+10.60
+21.78
+33.16
+33.16
+21.78
+45.63
+60.60
+60.60
+45.63
+15.31Proof
